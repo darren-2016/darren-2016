@@ -12,6 +12,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## GitHub Statistics
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=darren-2016)](https://github.com/darren-2016)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darren-2016&layout=compact)](https://github.com/darren-2016)
 
 <!--
 **darren-2016/darren-2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
