@@ -1,3 +1,8 @@
+<img src="images/MyBanner2.png"
+   alt="Short Image Description"
+   style="float: left; margin-right: 10px;" 
+   /> 
+
 ### Hi there, I'm Darren 👋
 
 Software Engineer
