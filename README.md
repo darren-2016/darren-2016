@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Darren 👋
 
-Software Engineer
+Software Engineer, Web Developer, Full-stack Developer, Tech Enthusiast.
 
 ## Tech Stack
 
