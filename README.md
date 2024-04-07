@@ -7,6 +7,11 @@
 
 Software Engineer, Web Developer, Full-stack Developer, Tech Enthusiast.
 
+## My Latest Project
+Happiness App: A React-based web app for viewing and analysing 'happiness survey' data from the World Happiness Report.
+
+
+
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
