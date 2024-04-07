@@ -7,11 +7,6 @@
 
 Software Engineer, Web Developer, Full-stack Developer, Tech Enthusiast.
 
-## My Latest Project
-Happiness App: A React-based web app for viewing and analysing 'happiness survey' data from the World Happiness Report.
-
-
-
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,6 +18,14 @@ Happiness App: A React-based web app for viewing and analysing 'happiness survey
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## My Latest Project
+Happiness App: A React-based web app for viewing and analysing 'happiness survey' data from the World Happiness Report.
+
+<img src="./images/whr-app-landing-page-b.png"
+   alt="Landing Page"
+   style="float: left; margin-right: 10px;" 
+   /> 
 
 ## GitHub Statistics
 
