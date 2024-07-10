@@ -34,7 +34,7 @@ Happiness App: A React-based web app for viewing and analysing 'happiness survey
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darren-2016&layout=compact)](https://github.com/darren-2016)
 
 <a href="https://www.linkedin.com/in/darrenjdraper/"><img align="left" src="https://raw.githubusercontent.com/darren-2016/darren-2016/main/images/linkedin.png" alt="Darren Draper | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/darren_draper/"><img align="left" src="https://raw.githubusercontent.com/darren-2016/darren-2016/main/images/twitter.svg" alt="Darren Draper | Twitter" width="21px"/></a>
+<!-- a href="https://www.twitter.com/darren_draper/"><img align="left" src="https://raw.githubusercontent.com/darren-2016/darren-2016/main/images/twitter.svg" alt="Darren Draper | Twitter" width="21px"/></a -->
 
 <!--
 **darren-2016/darren-2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
