@@ -7,7 +7,7 @@
 
 Software Engineer, Web Developer, Full-stack Developer, Tech Enthusiast.
 
-C/C++, Python, React, IoT, SmartDevices, Embedded, Applications.
+C/C++, Python, React, Javascript, HTML, CSS, IoT, SmartDevices, Embedded, Applications, WordPress.
 
 ## Tech Stack
 
