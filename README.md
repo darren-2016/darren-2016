@@ -7,6 +7,8 @@
 
 Software Engineer, Web Developer, Full-stack Developer, Tech Enthusiast.
 
+C/C++, Python, React, IoT, SmartDevices, Embedded, Applications.
+
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
